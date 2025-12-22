@@ -1,0 +1,33 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+[Mm]emoryCaptures/
+
+# Unity cache
+[Bb]uildProfileContext.asset
+
+# User-specific settings
+UserSettings/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Rider / VSCode / other IDE
+.idea/
+.vs/
+.vscode/
+
+# Crash reports
+sysinfo.txt
