@@ -2688,6 +2688,7 @@ MonoBehaviour:
   firePoint: {fileID: 2120023482}
   bulletSpeed: 20
   bulletLifetime: 5
+  bulletRotationOffset: {x: 0, y: 0, z: 0}
   Clip: {fileID: 8300000, guid: 02afb756b4fc89a419d9660e89f5be03, type: 3}
 --- !u!82 &574872881
 AudioSource:
@@ -7494,7 +7495,7 @@ Transform:
   m_GameObject: {fileID: 2120023481}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.24499989, y: 0.06099999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
